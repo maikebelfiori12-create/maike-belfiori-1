@@ -22,6 +22,6 @@ Ficarei feliz em conectar e discutir sobre novos aprendizados e futuras oportuni
 
 ---
 
-[![Crachá da sua Linguagem favorita](https://img.shields.io/badge/Feito%20com-[Nome%20da%20Linguagem]-orange?style=for-the-badge&logo=[Nome%20do%20Logo])](https://github.com/SEU-USERNAME)
-*GitHub*
+[![Crachá da sua Linguagem favorita](https://img.shields.io/badge/Feito%20com-[GitHub]-orange?style=for-the-badge&logo=[Nome%20do%20Logo])](https://github.com/SEU-USERNAME)
+
 
