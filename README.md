@@ -17,7 +17,7 @@ Descobrindo em com area irei atuar futuramente.
 
 Ficarei feliz em conectar e discutir sobre novos aprendizados e futuras oportunidades de empregos.
 
-* **LinkedIn:** [Seu Perfil do LinkedIn](SUA-URL-DO-LINKEDIN)
+
 * **Email:** maikebelfiori12@gmail.com
 
 ---
